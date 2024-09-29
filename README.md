@@ -59,4 +59,4 @@ Maven：任意版本都可以
 
 四、运行截图
 ---
-![image_readme/1.png]([https://github.com/jasonlin233-cell/No002NursingHomeManagement/blob/main/image_readme/1.png](https://github.com/3212618475/Structure-of-Photography-Sharing-/blob/fc3ae27607f57d09bcac8dde4a8412cafbb1c521/image_readme/1.png))
+![image_readme/1.png](https://github.com/3212618475/Structure-of-Photography-Sharing-/blob/fc3ae27607f57d09bcac8dde4a8412cafbb1c521/image_readme/1.png)
